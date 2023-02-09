@@ -23,7 +23,7 @@ header {
   border-top: 3px solid #4b3427;
 }
 a:link {
-  color: rgb(255, 254, 187);
+  color:#4b3427;
   background-color: #d1f4ff ;
   text-decoration:none;
   display: inline-block;
